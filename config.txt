@@ -1,0 +1,41 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+
+! 强制走代理示例：
+||google.com
+||*.google.com
+||github.com
+||*.github.com
+||nodejs.org
+||*.nodejs.org
+||raw.githubusercontent.com
+||*.githubusercontent.com
+||youtube.com
+||*.youtube.com
+||wox.one
+||*.wox.one
+||visualstudio.com
+||*.visualstudio.com
+||msecnd.net
+||*.msecnd.net
+
+! 强制不走代理示例：
+@@baidu.com
+@@*.baidu.com
+@@jd.com
+@@*.jd.com
+@@taobao.com
+@@*.taobao.com
+@@tmall.com
+@@*.tmall.com
+@@*.q.com
+@@www.q.com
+@@q.com
+@@lj.52shuxue.com
+@@pma.com
+@@www.pma.com
+@@taobao.org
+@@*.taobao.org
+
+
+! 修改完成后请更新为GFWList一次方可生效。
