@@ -18,6 +18,15 @@
 ||*.visualstudio.com
 ||msecnd.net
 ||*.msecnd.net
+||www.amazon.de
+||*.amazon.de
+||developer.mozilla.org
+||*.mozilla.org
+||www.howtogeek.com
+||*.howtogeek.com
+||*.tunnelblick.net
+||www.tunnelblick.net
+
 
 ! 强制不走代理示例：
 @@baidu.com
@@ -36,6 +45,10 @@
 @@www.pma.com
 @@taobao.org
 @@*.taobao.org
+@@*.huaweicloud.com
+@@mirrors.huaweicloud.com
+
+
 
 
 ! 修改完成后请更新为GFWList一次方可生效。
